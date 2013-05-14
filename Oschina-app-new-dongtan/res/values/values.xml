@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <bool name="has_two_panes">false</bool>
+      
+      <string-array name="action_list">
+        <item>最新動態</item>
+        <item>最熱動態</item>
+       
+    </string-array>
+</resources>
